@@ -16,3 +16,19 @@ body{
     max-width: 350px;
     padding: 10px;
 }
+
+button, input{
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+#removeImages{
+    background-color: red;
+}
+
+#searchGiphy{
+    background-color: green;
+}
