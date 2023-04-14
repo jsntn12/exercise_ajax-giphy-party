@@ -8,6 +8,7 @@ $('#searchGiphy').on('click', function (evt) {
 
 $('#removeImages').on('click', function (evt) {
 	evt.preventDefault();
+	$('.allGiphyImages').empty();
 });
 
 async function getGiphy(keyword) {
