@@ -7,3 +7,12 @@ body{
     color: white;
     text-align: center;
 }
+
+.allGiphyImages{
+    margin-top: 20px;
+}
+
+.allGiphyImages img {
+    max-width: 350px;
+    padding: 10px;
+}
